@@ -5,7 +5,7 @@ const trackButtonClick = (platform) => {
 const handleWhatsAppClick = (e) => {
   e.preventDefault();
   const link = e.currentTarget.dataset.link;
-  trackButtonClick('WhatsApp');
+  trackButtonClick('Whatsapp');
   window.open(link, '_blank');
 };
 
