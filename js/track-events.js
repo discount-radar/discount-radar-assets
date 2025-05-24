@@ -1,5 +1,11 @@
 const trackButtonClick = (platform) => {
-  fbq('track', 'Lead', { content_name: platform });
+  if (typeof fbq !== "undefined") {
+    try {
+      fbq('track', 'Lead', { content_name: platform });
+    } catch (e) {
+      console.warn("Failed to track button click:", e);
+    }
+  }
 };
 
 const handleWhatsAppClick = (e) => {
