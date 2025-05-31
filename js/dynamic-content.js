@@ -5,7 +5,7 @@ const translations = {
     subtitle: "join my group and start saving for real",
     whatsapp: "Join the WhatsApp group<br><small>(105,000 members)</small>",
     telegram: "Join the Telegram group<br><small>(220,000 members)</small>",
-    whatsappLink: "https://chat.whatsapp.com/JFAbv9MV2q5AElfW2xzG45",
+    whatsappLink: "https://chat.whatsapp.com/Hp2a6AMrKziIPxTcczmFA5",
     telegramLink: "tg://join?invite=a1g1URzMFkAzZGFi"
   },
   es: {
@@ -14,7 +14,7 @@ const translations = {
     subtitle: "únete a mi grupo y ahorra de verdad",
     whatsapp: "Únete al grupo de WhatsApp<br><small>(105 000 miembros)</small>",
     telegram: "Únete al grupo de Telegram<br><small>(220 000 miembros)</small>",
-    whatsappLink: "https://chat.whatsapp.com/JFAbv9MV2q5AElfW2xzG45",
+    whatsappLink: "https://chat.whatsapp.com/Hp2a6AMrKziIPxTcczmFA5",
     telegramLink: "tg://join?invite=a1g1URzMFkAzZGFi"
   },
   pt: {
@@ -23,7 +23,7 @@ const translations = {
     subtitle: "entre no meu grupo e economize de verdade",
     whatsapp: "Entre no grupo do WhatsApp<br><small>(105.000 membros)</small>",
     telegram: "Entre no grupo do Telegram<br><small>(220.000 membros)</small>",
-    whatsappLink: "https://chat.whatsapp.com/JFAbv9MV2q5AElfW2xzG45",
+    whatsappLink: "https://chat.whatsapp.com/Hp2a6AMrKziIPxTcczmFA5",
     telegramLink: "tg://join?invite=a1g1URzMFkAzZGFi"
   }
 };
